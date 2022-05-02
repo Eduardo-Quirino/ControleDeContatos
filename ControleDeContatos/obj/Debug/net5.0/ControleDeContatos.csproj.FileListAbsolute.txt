@@ -355,3 +355,6 @@ C:\Users\Eduardo\Documents\ESTUDOS\curso_programacao_csharp\Aplivcativos\Control
 C:\Users\Eduardo\Documents\ESTUDOS\curso_programacao_csharp\Aplivcativos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\ControleDeContatos.genruntimeconfig.cache
 C:\Users\Eduardo\Documents\ESTUDOS\curso_programacao_csharp\Aplivcativos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\ref\ControleDeContatos.dll
 C:\Users\Eduardo\Documents\ESTUDOS\curso_programacao_csharp\Aplivcativos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Users\Eduardo\Documents\ESTUDOS\curso_programacao_csharp\Aplivcativos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Contato\Criar.cshtml.g.cs
+C:\Users\Eduardo\Documents\ESTUDOS\curso_programacao_csharp\Aplivcativos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Contato\Editar.cshtml.g.cs
+C:\Users\Eduardo\Documents\ESTUDOS\curso_programacao_csharp\Aplivcativos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Contato\ApagarConfirmacao.cshtml.g.cs

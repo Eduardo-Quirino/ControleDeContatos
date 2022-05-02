@@ -1,8 +1,12 @@
 ﻿@{
     ViewData["Title"] = "Listagem de Contatos";
 }
-<h1>Listagem de Contatos</h1>
-
+<div class="text-center">
+<div class="d-grid gap-2 d-md-flex justify-content-md-start">
+    <a class="btn btn-secondary" role="button" asp-controller="Contato" asp-action="Criar" >Novo Contato</a>
+</div>
+<br />
+<h1 class="display-4">Listagem de Contatos</h1>
 <table class="table">
   <thead>
     <tr>
@@ -22,8 +26,8 @@
       <td>11 9134-56789</td>
       <td>
           <div class="btn-group" role="group" aria-label="Basic outlined example">
-              <button type="button" class="btn btn-outline-secondary">Editar</button>
-              <button type="button" class="btn btn-outline-secondary">Apagar</button>
+              <a role="button" class="btn btn-outline-secondary" asp-controller="Contato" asp-action="Editar"> Editar</a>
+              <a role="button"  class="btn btn-outline-secondary" asp-controller="Contato" asp-action="ApagarConfirmacao">Apagar</a>
            </div>
       </td>
     </tr>
@@ -34,8 +38,8 @@
       <td>11 9134-56789</td>
       <td>
           <div class="btn-group" role="group" aria-label="Basic outlined example">
-              <button type="button" class="btn btn-outline-secondary">Editar</button>
-              <button type="button" class="btn btn-outline-secondary">Apagar</button>
+              <a role="button" class="btn btn-outline-secondary" asp-controller="Contato" asp-action="Editar"> Editar</a>
+              <a role="button"  class="btn btn-outline-secondary" asp-controller="Contato" asp-action="ApagarConfirmacao">Apagar</a>
            </div>
       </td>
 
@@ -48,10 +52,11 @@
       <td>11 9134-56789</td>
       <td>
           <div class="btn-group" role="group" aria-label="Basic outlined example">
-              <button type="button" class="btn btn-outline-secondary">Editar</button>
+              <a role="button" class="btn btn-outline-secondary" asp-controller="Contato" asp-action="Editar"> Editar</a>
               <button type="button" class="btn btn-outline-secondary">Apagar</button>
            </div>
       </td>
     </tr>
   </tbody>
 </table>
+</div>
