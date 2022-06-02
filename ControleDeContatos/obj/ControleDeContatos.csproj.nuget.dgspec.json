@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduardo\\Documents\\Aplicativos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
+    "C:\\Users\\Eduardo\\Documents\\Projetos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eduardo\\Documents\\Aplicativos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {
+    "C:\\Users\\Eduardo\\Documents\\Projetos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduardo\\Documents\\Aplicativos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectUniqueName": "C:\\Users\\Eduardo\\Documents\\Projetos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
         "projectName": "ControleDeContatos",
-        "projectPath": "C:\\Users\\Eduardo\\Documents\\Aplicativos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectPath": "C:\\Users\\Eduardo\\Documents\\Projetos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduardo\\Documents\\Aplicativos WEB\\ControleDeContatos\\ControleDeContatos\\obj\\",
+        "outputPath": "C:\\Users\\Eduardo\\Documents\\Projetos WEB\\ControleDeContatos\\ControleDeContatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -79,24 +79,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

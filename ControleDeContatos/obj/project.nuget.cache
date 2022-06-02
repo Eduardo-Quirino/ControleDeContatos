@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q1lOzyOd05pPfpAmle56NkH9dPVXpsIBavjoetRqbZJ8u1kHY+0FTw+ErRy3SLbHz3zTH0B0R+fiZZO6wgHWGQ==",
+  "dgSpecHash": "gXZCJ+LPsPAS4JCBAKEZPybv5FYncC0ychYJtqFhAQ90WuPUuxexmjuEp9rE26+wvdG7TMilqmlGWx0tJ1r8ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eduardo\\Documents\\Aplicativos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+  "projectFilePath": "C:\\Users\\Eduardo\\Documents\\Projetos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eduardo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.12\\microsoft.aspnetcore.mvc.razor.extensions.5.0.12.nupkg.sha512",
@@ -111,11 +111,7 @@
     "C:\\Users\\Eduardo\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Eduardo\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Eduardo\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Eduardo\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Eduardo\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
