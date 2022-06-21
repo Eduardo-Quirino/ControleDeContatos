@@ -6377,23 +6377,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Eduardo\\.nuget\\packages\\": {},
+    "C:\\Users\\Eduardo Quirino\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo\\Documents\\Projetos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+      "projectUniqueName": "C:\\Users\\Eduardo Quirino\\Documents\\GitHub\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
       "projectName": "ControleDeContatos",
-      "projectPath": "C:\\Users\\Eduardo\\Documents\\Projetos WEB\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
-      "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo\\Documents\\Projetos WEB\\ControleDeContatos\\ControleDeContatos\\obj\\",
+      "projectPath": "C:\\Users\\Eduardo Quirino\\Documents\\GitHub\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+      "packagesPath": "C:\\Users\\Eduardo Quirino\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eduardo Quirino\\Documents\\GitHub\\ControleDeContatos\\ControleDeContatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eduardo Quirino\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
