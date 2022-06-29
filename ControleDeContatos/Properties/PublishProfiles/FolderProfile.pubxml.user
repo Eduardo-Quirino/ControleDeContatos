@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Eduardo\Documents\ESTUDOS\curso_programacao_csharp\Aplivcativos\ControleDeContatos\ControleDeContatos\bin\Debug\net5.0</_PublishTargetUrl>
-    <History>True|2022-05-16T08:16:52.0562968Z;</History>
+    <History>False|2022-06-24T16:56:38.4598527Z;True|2022-05-16T05:16:52.0562968-03:00;</History>
   </PropertyGroup>
 </Project>

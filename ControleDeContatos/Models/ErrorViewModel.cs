@@ -1,5 +1,3 @@
-using System;
-
 namespace ControleDeContatos.Models
 {
     public class ErrorViewModel

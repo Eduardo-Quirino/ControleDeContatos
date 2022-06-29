@@ -6,10 +6,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace ControleDeContatos
 {
@@ -27,7 +23,7 @@ namespace ControleDeContatos
         {
             services.AddControllersWithViews();
             services.AddEntityFrameworkSqlServer()
-                .AddDbContext<BancoContext>(o  => o.UseSqlServer(Configuration.GetConnectionString("DataBase")));
+                .AddDbContext<BancoContext>(o => o.UseSqlServer(Configuration.GetConnectionString("DataBase")));
             services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
         }
 

@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ControleDeContatos"
   ],
-  "SelectedNode": "\\ControleDeContatos.sln",
+  "SelectedNode": "\\ControleDeContatos\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

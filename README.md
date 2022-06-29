@@ -15,5 +15,6 @@
 
 > **Rodar migração:**
 >
+
 > - Add-Migration CriandoNomedaTabela -Context BancoContext 
-> -  Update-Database -Context BancoContext
+>-  Update-Database -Context BancoContext

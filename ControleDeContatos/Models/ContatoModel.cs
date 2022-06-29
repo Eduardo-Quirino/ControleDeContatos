@@ -1,6 +1,4 @@
-﻿using System.Threading.Tasks;
-
-namespace ControleDeContatos.Models
+﻿namespace ControleDeContatos.Models
 {
     public class ContatoModel
     {

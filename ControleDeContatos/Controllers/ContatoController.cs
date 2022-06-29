@@ -1,8 +1,6 @@
 ﻿using ControleDeContatos.Models;
 using ControleDeContatos.Repositorio;
 using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks;
-using System.Linq;
 using System.Collections.Generic;
 
 namespace ControleDeContatos.Controllers
@@ -16,7 +14,7 @@ namespace ControleDeContatos.Controllers
         }
         public IActionResult Index()
         {
-            List<ContatoModel> contatos= _contatoRepositorio.BuscarTodos();
+            List<ContatoModel> contatos = _contatoRepositorio.BuscarTodos();
             return View(contatos);
         }
         public IActionResult Criar()
